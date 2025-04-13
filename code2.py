@@ -1,5 +1,8 @@
 #code 2
 
+# this is test for commit
+
+
 def defmasraf(roz,masraf):
     masraf30roz = (masraf*30)//roz
 
